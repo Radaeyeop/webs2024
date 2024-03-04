@@ -15,7 +15,7 @@
 [b1](https://radaeyeop.github.io/webs2024/webd/layout/layout/b1.html)   
 
 
-webd/layout/layout/a1.html
+
 
 ## vscode 단축기
 <!-- 레이아웃 -->
