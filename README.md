@@ -5,8 +5,17 @@
 ==은 비교. 값이 다르면 faluse   
 
 ## 자바 스크립트 공부
-[1. 데이터 저장하기]   
-(https://radaeyeop.github.io/webs2024/javascript/javascript01.html)   
+[1. 데이터 저장하기](https://radaeyeop.github.io/webs2024/javascript/javascript01.html)   
+
+## 레이아웃
+[a1](https://radaeyeop.github.io/webs2024/webd/layout/layout/a1.html)      
+[a2](https://radaeyeop.github.io/webs2024/webd/layout/layout/a2.html)   
+[a3](https://radaeyeop.github.io/webs2024/webd/layout/layout/a3.html)   
+[a4](https://radaeyeop.github.io/webs2024/webd/layout/layout/a4.html)   
+[b1](https://radaeyeop.github.io/webs2024/webd/layout/layout/b1.html)   
+
+
+webd/layout/layout/a1.html
 
 ## vscode 단축기
 <!-- 레이아웃 -->
